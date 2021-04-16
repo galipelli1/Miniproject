@@ -19,3 +19,12 @@ The objective of this project is to develop a Tic-Tac-Toe game for mobile device
 * Users can install it on computer.
 # How
 * The game is played by two players, who take turns.
+# High level requirements
+|ID|Description|Status|
+|---|---|---|
+|H01|User has to give input of his/her choice|Implemented|
+
+# Low level requirements
+|ID|Description|Status|
+|---|---|---|
+|L01|User can see their choice on screen/grid|Implemented|
