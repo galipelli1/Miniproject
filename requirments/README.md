@@ -8,16 +8,16 @@
 ## Objective
 The objective of this project is to develop a Tic-Tac-Toe game for mobile device.Kids can play this game as there is no killing so it will not affect kids brain. Controls are very easy so people of any age can play this game. 
 
-## 4W's and 1H's
-# who
+# 4W's and 1H's
+## who
 * People of any age can play this game
-# what
+## what
 * This game helps users to improve their decision making. 
-# when
+## when
 * Users having computer can play this game in their free time.
-# where
+## where
 * Users can install it on computer.
-# How
+## How
 * The game is played by two players, who take turns.
 # High level requirements
 |ID|Description|Status|
